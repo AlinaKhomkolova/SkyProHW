@@ -1,6 +1,6 @@
 def upper(string: str) -> str:
     """
-    Функция делает все буквы большими
+    Function makes all letters capital
     :param string: str
     :return: str
     """
