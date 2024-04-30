@@ -1,6 +1,6 @@
 def upper(string: str) -> str:
     """
-    Изменяет регистор букв
+    Функция делает все буквы большими
     :param string: str
     :return: str
     """
